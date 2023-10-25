@@ -1,0 +1,15 @@
+C:\BoxnJump\BoxnJump_2023\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\BoxnJump\BoxnJump_2023\Domain\bin\Debug\net7.0\Domain.dll
+C:\BoxnJump\BoxnJump_2023\Domain\bin\Debug\net7.0\Domain.pdb
+C:\BoxnJump\BoxnJump_2023\Domain\bin\Debug\net7.0\Entities.dll
+C:\BoxnJump\BoxnJump_2023\Domain\bin\Debug\net7.0\Entities.pdb
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\Domain.dll
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\Domain.pdb
+C:\BoxnJump\BoxnJump_2023\Domain\obj\Debug\net7.0\ref\Domain.dll

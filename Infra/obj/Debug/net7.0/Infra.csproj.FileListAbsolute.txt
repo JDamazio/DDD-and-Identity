@@ -1,0 +1,17 @@
+C:\BoxnJump\BoxnJump_2023\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\BoxnJump\BoxnJump_2023\Infra\bin\Debug\net7.0\Infra.dll
+C:\BoxnJump\BoxnJump_2023\Infra\bin\Debug\net7.0\Infra.pdb
+C:\BoxnJump\BoxnJump_2023\Infra\bin\Debug\net7.0\Domain.dll
+C:\BoxnJump\BoxnJump_2023\Infra\bin\Debug\net7.0\Entities.dll
+C:\BoxnJump\BoxnJump_2023\Infra\bin\Debug\net7.0\Domain.pdb
+C:\BoxnJump\BoxnJump_2023\Infra\bin\Debug\net7.0\Entities.pdb
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\Infra.dll
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\Infra.pdb
+C:\BoxnJump\BoxnJump_2023\Infra\obj\Debug\net7.0\ref\Infra.dll
